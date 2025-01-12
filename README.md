@@ -1,2 +1,2 @@
 # Sistema de Registro
-- Estado del proyecto: Por completar.
+🚧 Proyecto en construcción 🚧
